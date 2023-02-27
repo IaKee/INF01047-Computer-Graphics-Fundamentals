@@ -29,4 +29,4 @@ The course was structured in 15 weeks, with synchronous and asynchronous activit
 
 ## Note
 
-Please note that this repository contains only the projects and assignments completed by the student, and not the entire course material.
+Please note that this repository contains only the projects and assignments completed by me, and not the entire course material.
